@@ -7,6 +7,7 @@
 ### PHP
 
 main wrapper using FatFree Framework
+
 Webcamera image grabbing using Webcam.JS
 
 > cd php
@@ -16,8 +17,11 @@ Webcamera image grabbing using Webcam.JS
 ### Python
 
 Follow https://github.com/dsanno/chainer-neural-style to install dependencies
+
 You will need as well web.py
+
 > pip install web.py
+
 > python src/server.py 1338
 
 ### TODO
