@@ -10,6 +10,7 @@ main wrapper using FatFree Framework
 Webcamera image grabbing using Webcam.JS
 
 > cd php
+
 > php -S localhost:1337
 
 ### Python
